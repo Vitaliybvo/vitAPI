@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vitAPI", "vitAPI\vitAPI.csproj", "{55FB0BCC-5C04-41BD-A7D6-E1EB5445A796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{01608C73-1A43-4B06-955E-5EFDF2EDB63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FB0BCC-5C04-41BD-A7D6-E1EB5445A796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FB0BCC-5C04-41BD-A7D6-E1EB5445A796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FB0BCC-5C04-41BD-A7D6-E1EB5445A796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FB0BCC-5C04-41BD-A7D6-E1EB5445A796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01608C73-1A43-4B06-955E-5EFDF2EDB63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01608C73-1A43-4B06-955E-5EFDF2EDB63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01608C73-1A43-4B06-955E-5EFDF2EDB63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01608C73-1A43-4B06-955E-5EFDF2EDB63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A982848-9A72-4D51-B6BF-D98743904FF5}
+	EndGlobalSection
+EndGlobal
